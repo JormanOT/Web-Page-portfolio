@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: jormanot.com.ve
+Token: 19ee5a1923c7010ee3d968123fef330d1fcd2e6c992337914b64719b9a976ae8
