@@ -46,7 +46,9 @@ body {
   background-repeat: no-repeat;
   background-position: center;
 }
-
+.bg-color{
+  background-color: #4285f4;
+}
 .main {
   width: 100%;
   position: absolute;
