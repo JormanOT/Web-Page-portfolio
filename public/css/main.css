@@ -2228,20 +2228,13 @@ body[data-region=zh_Hans_CN] .chr-stores__download-link {
 }
 
 .chr-download-now {
-    background: no-repeat center url("/chrome/static/images/download-bg-mobile.svg") #4285f4;
     padding: 50px 0;
     text-align: center
 }
 
-@media (min-width: 600px) {
-    .chr-download-now {
-        background-image: url("/chrome/static/images/download-bg-tablet.svg")
-    }
-}
 
 @media (min-width: 1024px) {
     .chr-download-now {
-        background-image: url("/chrome/static/images/download-bg-desktop.svg");
         padding: 80px 0
     }
 }
@@ -2308,14 +2301,12 @@ body[data-region=zh_Hans_CN] .chr-stores__download-link {
 
 @media (min-width: 600px) {
     .chr-download-now--help .chr-grid {
-        background: no-repeat center url("/chrome/static/images/download-bg-tablet.svg") #4285f4;
         margin: 0
     }
 }
 
 @media (min-width: 1024px) {
     .chr-download-now--help .chr-grid {
-        background-image: url("/chrome/static/images/download-bg-desktop.svg");
         padding: 80px 0
     }
 }
