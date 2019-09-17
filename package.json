@@ -1,0 +1,29 @@
+{
+  "name": "jorman_ortega",
+  "version": "1.0.0",
+  "description": "Pagina personal donde ofrezco mi servicios",
+  "main": "index.html",
+  "dependencies": {
+    "grunt": "^1.0.4",
+    "grunt-contrib-compress": "^1.5.0",
+    "grunt-contrib-cssmin": "^3.0.0",
+    "grunt-contrib-uglify": "^4.0.1",
+    "grunt-purifycss": "^0.1.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "purificar": "grunt purifycss",
+    "concat": "grunt concat",
+    "minificar": "grunt uglify"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JormanOT/Web-Page-portfolio.git"
+  },
+  "author": "Jorman Ortega",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JormanOT/Web-Page-portfolio/issues"
+  },
+  "homepage": "https://github.com/JormanOT/Web-Page-portfolio#readme"
+}
